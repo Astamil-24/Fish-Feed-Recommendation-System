@@ -1,0 +1,801 @@
+fish_name,food_type,food_name,water_type,feeding_type,suitability
+Rohu,Vegetable,Onion,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Cabbage,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Tomato,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Carrot,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Pumpkin,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Cauliflower,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Beans,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Beetroot,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Lady's Finger,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Bitter Gourd,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Spinach,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Potato,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Sweet Potato,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Cucumber,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Bottle Gourd,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Ridge Gourd,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Brinjal,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Green Peas,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Corn,Freshwater,Omnivorous,Suitable
+Rohu,Vegetable,Radish,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Banana,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Apple,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Papaya,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Watermelon,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Mango,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Guava,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Orange,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Pineapple,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Pomegranate,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Grapes,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Jackfruit,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Muskmelon,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Pear,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Sapota,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Custard Apple,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Kiwi,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Strawberry,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Dragon Fruit,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Fig,Freshwater,Omnivorous,Suitable
+Rohu,Fruit,Avocado,Freshwater,Omnivorous,Suitable
+Catla,Vegetable,Onion,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Cabbage,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Tomato,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Carrot,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Pumpkin,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Cauliflower,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Beans,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Beetroot,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Lady's Finger,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Bitter Gourd,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Spinach,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Potato,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Sweet Potato,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Cucumber,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Bottle Gourd,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Ridge Gourd,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Brinjal,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Green Peas,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Corn,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Vegetable,Radish,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Banana,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Apple,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Papaya,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Watermelon,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Mango,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Guava,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Orange,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Pineapple,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Pomegranate,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Grapes,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Jackfruit,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Muskmelon,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Pear,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Sapota,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Custard Apple,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Kiwi,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Strawberry,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Dragon Fruit,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Fig,Freshwater,Zooplankton feeder,Not Suitable
+Catla,Fruit,Avocado,Freshwater,Zooplankton feeder,Not Suitable
+Mrigal,Vegetable,Onion,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Cabbage,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Tomato,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Carrot,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Pumpkin,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Cauliflower,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Beans,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Beetroot,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Lady's Finger,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Bitter Gourd,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Spinach,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Potato,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Sweet Potato,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Cucumber,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Bottle Gourd,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Ridge Gourd,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Brinjal,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Green Peas,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Corn,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Vegetable,Radish,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Banana,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Apple,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Papaya,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Watermelon,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Mango,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Guava,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Orange,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Pineapple,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Pomegranate,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Grapes,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Jackfruit,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Muskmelon,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Pear,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Sapota,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Custard Apple,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Kiwi,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Strawberry,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Dragon Fruit,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Fig,Freshwater,Detritus feeder,Not Suitable
+Mrigal,Fruit,Avocado,Freshwater,Detritus feeder,Not Suitable
+Common Carp,Vegetable,Onion,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Cabbage,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Tomato,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Carrot,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Pumpkin,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Cauliflower,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Beans,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Beetroot,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Lady's Finger,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Bitter Gourd,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Spinach,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Potato,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Sweet Potato,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Cucumber,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Bottle Gourd,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Ridge Gourd,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Brinjal,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Green Peas,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Corn,Freshwater,Omnivorous,Suitable
+Common Carp,Vegetable,Radish,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Banana,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Apple,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Papaya,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Watermelon,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Mango,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Guava,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Orange,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Pineapple,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Pomegranate,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Grapes,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Jackfruit,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Muskmelon,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Pear,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Sapota,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Custard Apple,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Kiwi,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Strawberry,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Dragon Fruit,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Fig,Freshwater,Omnivorous,Suitable
+Common Carp,Fruit,Avocado,Freshwater,Omnivorous,Suitable
+Grass Carp,Vegetable,Onion,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Cabbage,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Tomato,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Carrot,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Pumpkin,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Cauliflower,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Beans,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Beetroot,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Lady's Finger,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Bitter Gourd,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Spinach,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Potato,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Sweet Potato,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Cucumber,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Bottle Gourd,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Ridge Gourd,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Brinjal,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Green Peas,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Corn,Freshwater,Herbivorous,Suitable
+Grass Carp,Vegetable,Radish,Freshwater,Herbivorous,Suitable
+Grass Carp,Fruit,Banana,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Apple,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Papaya,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Watermelon,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Mango,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Guava,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Orange,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Pineapple,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Pomegranate,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Grapes,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Jackfruit,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Muskmelon,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Pear,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Sapota,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Custard Apple,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Kiwi,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Strawberry,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Dragon Fruit,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Fig,Freshwater,Herbivorous,Not Suitable
+Grass Carp,Fruit,Avocado,Freshwater,Herbivorous,Not Suitable
+Silver Carp,Vegetable,Onion,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Cabbage,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Tomato,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Carrot,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Pumpkin,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Cauliflower,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Beans,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Beetroot,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Lady's Finger,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Bitter Gourd,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Spinach,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Potato,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Sweet Potato,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Cucumber,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Bottle Gourd,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Ridge Gourd,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Brinjal,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Green Peas,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Corn,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Vegetable,Radish,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Banana,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Apple,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Papaya,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Watermelon,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Mango,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Guava,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Orange,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Pineapple,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Pomegranate,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Grapes,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Jackfruit,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Muskmelon,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Pear,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Sapota,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Custard Apple,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Kiwi,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Strawberry,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Dragon Fruit,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Fig,Freshwater,Phytoplankton feeder,Not Suitable
+Silver Carp,Fruit,Avocado,Freshwater,Phytoplankton feeder,Not Suitable
+Tilapia,Vegetable,Onion,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Cabbage,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Tomato,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Carrot,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Pumpkin,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Cauliflower,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Beans,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Beetroot,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Lady's Finger,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Bitter Gourd,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Spinach,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Potato,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Sweet Potato,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Cucumber,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Bottle Gourd,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Ridge Gourd,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Brinjal,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Green Peas,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Corn,Freshwater,Omnivorous,Suitable
+Tilapia,Vegetable,Radish,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Banana,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Apple,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Papaya,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Watermelon,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Mango,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Guava,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Orange,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Pineapple,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Pomegranate,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Grapes,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Jackfruit,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Muskmelon,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Pear,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Sapota,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Custard Apple,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Kiwi,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Strawberry,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Dragon Fruit,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Fig,Freshwater,Omnivorous,Suitable
+Tilapia,Fruit,Avocado,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Onion,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Cabbage,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Tomato,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Carrot,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Pumpkin,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Cauliflower,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Beans,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Beetroot,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Lady's Finger,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Bitter Gourd,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Spinach,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Potato,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Sweet Potato,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Cucumber,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Bottle Gourd,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Ridge Gourd,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Brinjal,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Green Peas,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Corn,Freshwater,Omnivorous,Suitable
+Pangasius,Vegetable,Radish,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Banana,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Apple,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Papaya,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Watermelon,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Mango,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Guava,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Orange,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Pineapple,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Pomegranate,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Grapes,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Jackfruit,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Muskmelon,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Pear,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Sapota,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Custard Apple,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Kiwi,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Strawberry,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Dragon Fruit,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Fig,Freshwater,Omnivorous,Suitable
+Pangasius,Fruit,Avocado,Freshwater,Omnivorous,Suitable
+Magur,Vegetable,Onion,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Cabbage,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Tomato,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Carrot,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Pumpkin,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Cauliflower,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Beans,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Beetroot,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Lady's Finger,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Bitter Gourd,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Spinach,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Potato,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Sweet Potato,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Cucumber,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Bottle Gourd,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Ridge Gourd,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Brinjal,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Green Peas,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Corn,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Vegetable,Radish,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Banana,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Apple,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Papaya,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Watermelon,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Mango,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Guava,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Orange,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Pineapple,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Pomegranate,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Grapes,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Jackfruit,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Muskmelon,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Pear,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Sapota,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Custard Apple,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Kiwi,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Strawberry,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Dragon Fruit,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Fig,Freshwater,Carnivorous/Omnivorous,Suitable
+Magur,Fruit,Avocado,Freshwater,Carnivorous/Omnivorous,Suitable
+Murrel,Vegetable,Onion,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Cabbage,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Tomato,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Carrot,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Pumpkin,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Cauliflower,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Beans,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Beetroot,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Lady's Finger,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Bitter Gourd,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Spinach,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Potato,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Sweet Potato,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Cucumber,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Bottle Gourd,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Ridge Gourd,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Brinjal,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Green Peas,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Corn,Freshwater,Carnivorous,Not Suitable
+Murrel,Vegetable,Radish,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Banana,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Apple,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Papaya,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Watermelon,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Mango,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Guava,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Orange,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Pineapple,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Pomegranate,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Grapes,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Jackfruit,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Muskmelon,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Pear,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Sapota,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Custard Apple,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Kiwi,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Strawberry,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Dragon Fruit,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Fig,Freshwater,Carnivorous,Not Suitable
+Murrel,Fruit,Avocado,Freshwater,Carnivorous,Not Suitable
+Koi,Vegetable,Onion,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Cabbage,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Tomato,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Carrot,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Pumpkin,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Cauliflower,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Beans,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Beetroot,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Lady's Finger,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Bitter Gourd,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Spinach,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Potato,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Sweet Potato,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Cucumber,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Bottle Gourd,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Ridge Gourd,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Brinjal,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Green Peas,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Corn,Freshwater,Omnivorous,Suitable
+Koi,Vegetable,Radish,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Banana,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Apple,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Papaya,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Watermelon,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Mango,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Guava,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Orange,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Pineapple,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Pomegranate,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Grapes,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Jackfruit,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Muskmelon,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Pear,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Sapota,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Custard Apple,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Kiwi,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Strawberry,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Dragon Fruit,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Fig,Freshwater,Omnivorous,Suitable
+Koi,Fruit,Avocado,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Onion,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Cabbage,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Tomato,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Carrot,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Pumpkin,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Cauliflower,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Beans,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Beetroot,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Lady's Finger,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Bitter Gourd,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Spinach,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Potato,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Sweet Potato,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Cucumber,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Bottle Gourd,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Ridge Gourd,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Brinjal,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Green Peas,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Corn,Freshwater,Omnivorous,Suitable
+Kalbasu,Vegetable,Radish,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Banana,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Apple,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Papaya,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Watermelon,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Mango,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Guava,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Orange,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Pineapple,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Pomegranate,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Grapes,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Jackfruit,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Muskmelon,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Pear,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Sapota,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Custard Apple,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Kiwi,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Strawberry,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Dragon Fruit,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Fig,Freshwater,Omnivorous,Suitable
+Kalbasu,Fruit,Avocado,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Onion,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Cabbage,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Tomato,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Carrot,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Pumpkin,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Cauliflower,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Beans,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Beetroot,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Lady's Finger,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Bitter Gourd,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Spinach,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Potato,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Sweet Potato,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Cucumber,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Bottle Gourd,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Ridge Gourd,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Brinjal,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Green Peas,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Corn,Freshwater,Omnivorous,Suitable
+Bata,Vegetable,Radish,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Banana,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Apple,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Papaya,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Watermelon,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Mango,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Guava,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Orange,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Pineapple,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Pomegranate,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Grapes,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Jackfruit,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Muskmelon,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Pear,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Sapota,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Custard Apple,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Kiwi,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Strawberry,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Dragon Fruit,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Fig,Freshwater,Omnivorous,Suitable
+Bata,Fruit,Avocado,Freshwater,Omnivorous,Suitable
+Asian Seabass,Vegetable,Onion,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Cabbage,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Tomato,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Carrot,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Pumpkin,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Cauliflower,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Beans,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Beetroot,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Lady's Finger,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Bitter Gourd,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Spinach,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Potato,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Sweet Potato,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Cucumber,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Bottle Gourd,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Ridge Gourd,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Brinjal,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Green Peas,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Corn,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Vegetable,Radish,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Banana,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Apple,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Papaya,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Watermelon,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Mango,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Guava,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Orange,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Pineapple,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Pomegranate,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Grapes,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Jackfruit,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Muskmelon,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Pear,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Sapota,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Custard Apple,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Kiwi,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Strawberry,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Dragon Fruit,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Fig,Brackishwater,Carnivorous,Not Suitable
+Asian Seabass,Fruit,Avocado,Brackishwater,Carnivorous,Not Suitable
+Milkfish,Vegetable,Onion,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Cabbage,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Tomato,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Carrot,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Pumpkin,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Cauliflower,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Beans,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Beetroot,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Lady's Finger,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Bitter Gourd,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Spinach,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Potato,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Sweet Potato,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Cucumber,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Bottle Gourd,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Ridge Gourd,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Brinjal,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Green Peas,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Corn,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Vegetable,Radish,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Banana,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Apple,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Papaya,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Watermelon,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Mango,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Guava,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Orange,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Pineapple,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Pomegranate,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Grapes,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Jackfruit,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Muskmelon,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Pear,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Sapota,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Custard Apple,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Kiwi,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Strawberry,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Dragon Fruit,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Fig,Brackishwater,Herbivorous/Omnivorous,Suitable
+Milkfish,Fruit,Avocado,Brackishwater,Herbivorous/Omnivorous,Suitable
+Grey Mullet,Vegetable,Onion,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Cabbage,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Tomato,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Carrot,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Pumpkin,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Cauliflower,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Beans,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Beetroot,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Lady's Finger,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Bitter Gourd,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Spinach,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Potato,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Sweet Potato,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Cucumber,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Bottle Gourd,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Ridge Gourd,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Brinjal,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Green Peas,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Corn,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Vegetable,Radish,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Banana,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Apple,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Papaya,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Watermelon,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Mango,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Guava,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Orange,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Pineapple,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Pomegranate,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Grapes,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Jackfruit,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Muskmelon,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Pear,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Sapota,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Custard Apple,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Kiwi,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Strawberry,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Dragon Fruit,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Fig,Brackishwater,Omnivorous/Detritivorous,Suitable
+Grey Mullet,Fruit,Avocado,Brackishwater,Omnivorous/Detritivorous,Suitable
+Pearlspot,Vegetable,Onion,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Cabbage,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Tomato,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Carrot,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Pumpkin,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Cauliflower,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Beans,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Beetroot,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Lady's Finger,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Bitter Gourd,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Spinach,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Potato,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Sweet Potato,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Cucumber,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Bottle Gourd,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Ridge Gourd,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Brinjal,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Green Peas,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Corn,Brackishwater,Omnivorous,Suitable
+Pearlspot,Vegetable,Radish,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Banana,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Apple,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Papaya,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Watermelon,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Mango,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Guava,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Orange,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Pineapple,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Pomegranate,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Grapes,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Jackfruit,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Muskmelon,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Pear,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Sapota,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Custard Apple,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Kiwi,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Strawberry,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Dragon Fruit,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Fig,Brackishwater,Omnivorous,Suitable
+Pearlspot,Fruit,Avocado,Brackishwater,Omnivorous,Suitable
+Red Snapper,Vegetable,Onion,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Cabbage,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Tomato,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Carrot,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Pumpkin,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Cauliflower,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Beans,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Beetroot,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Lady's Finger,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Bitter Gourd,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Spinach,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Potato,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Sweet Potato,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Cucumber,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Bottle Gourd,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Ridge Gourd,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Brinjal,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Green Peas,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Corn,Marine,Carnivorous,Not Suitable
+Red Snapper,Vegetable,Radish,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Banana,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Apple,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Papaya,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Watermelon,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Mango,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Guava,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Orange,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Pineapple,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Pomegranate,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Grapes,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Jackfruit,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Muskmelon,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Pear,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Sapota,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Custard Apple,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Kiwi,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Strawberry,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Dragon Fruit,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Fig,Marine,Carnivorous,Not Suitable
+Red Snapper,Fruit,Avocado,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Onion,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Cabbage,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Tomato,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Carrot,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Pumpkin,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Cauliflower,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Beans,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Beetroot,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Lady's Finger,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Bitter Gourd,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Spinach,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Potato,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Sweet Potato,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Cucumber,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Bottle Gourd,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Ridge Gourd,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Brinjal,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Green Peas,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Corn,Marine,Carnivorous,Not Suitable
+Grouper,Vegetable,Radish,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Banana,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Apple,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Papaya,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Watermelon,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Mango,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Guava,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Orange,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Pineapple,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Pomegranate,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Grapes,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Jackfruit,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Muskmelon,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Pear,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Sapota,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Custard Apple,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Kiwi,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Strawberry,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Dragon Fruit,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Fig,Marine,Carnivorous,Not Suitable
+Grouper,Fruit,Avocado,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Onion,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Cabbage,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Tomato,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Carrot,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Pumpkin,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Cauliflower,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Beans,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Beetroot,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Lady's Finger,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Bitter Gourd,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Spinach,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Potato,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Sweet Potato,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Cucumber,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Bottle Gourd,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Ridge Gourd,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Brinjal,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Green Peas,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Corn,Marine,Carnivorous,Not Suitable
+Cobia,Vegetable,Radish,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Banana,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Apple,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Papaya,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Watermelon,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Mango,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Guava,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Orange,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Pineapple,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Pomegranate,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Grapes,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Jackfruit,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Muskmelon,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Pear,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Sapota,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Custard Apple,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Kiwi,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Strawberry,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Dragon Fruit,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Fig,Marine,Carnivorous,Not Suitable
+Cobia,Fruit,Avocado,Marine,Carnivorous,Not Suitable
